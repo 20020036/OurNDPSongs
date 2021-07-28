@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyNDPSongs</string>
+    <string name="title">Song Title</string>
+    <string name="hint_title">Enter song title here</string>
+    <string name="singers">Singers</string>
+    <string name="hint_singers">Enter singers\' name here</string>
+    <string name="year">Year</string>
+    <string name="hint_year">Enter year of release here</string>
+    <string name="stars">Stars</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <string name="title_activity_main">Insert Song</string>
+    <string name="title_activity_second">Show Song</string>
+    <string name="title_activity_third">Modify Song</string>
+
+    <string name="id">Song ID</string>
+    <string name="btnShowList">Show List</string>
+    <string name="btnInsert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn5Stars">Show all songs with 5 stars</string>
+</resources>
